@@ -38,14 +38,6 @@ Navigate to the project directory:
 
 4. Continue running each cell in order from top to bottom to complete the analysis.
 
-## Results
-
-The project predicts lottery odds using advanced machine learning models and provides insights into the best strategies for responsible gaming. The results are presented within the notebook.
-
-## Future Work
-
-This project lays the groundwork for expanding the analysis to other states and incorporating real-time data for dynamic updates.
-
 ## Contributing
 
 If you would like to contribute to this project, feel free to fork the repository, make changes, and submit a pull request.
