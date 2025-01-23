@@ -2,6 +2,8 @@
 
 This repository contains the code and analysis for the project **"Mitigating Risks for the Virginia Lottery"** by the Data Miners, which uses machine learning techniques to predict lottery odds and promote responsible gaming. This project aims to provide data-driven insights to improve decision-making for lottery players.
 
+Members of this team are: Farhan Khan, Zohaib Khalid, and Ben Doniger. The professor for this course was Professor Rich Nguyen.
+
 ## Getting Started
 
 Follow the steps below to download the repository and run the project.
